@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/physics-lecture-task5/static/css/main.ff02f4b5.css",
+    "main.js": "/physics-lecture-task5/static/js/main.c663f681.js",
+    "index.html": "/physics-lecture-task5/index.html",
+    "main.ff02f4b5.css.map": "/physics-lecture-task5/static/css/main.ff02f4b5.css.map",
+    "main.c663f681.js.map": "/physics-lecture-task5/static/js/main.c663f681.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.c663f681.js"
+  ]
+}
